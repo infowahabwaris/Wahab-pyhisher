@@ -2,15 +2,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/KasRoudra/pyphisher?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/KasRoudra/pyphisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/KasRoudra/pyphisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/KasRoudra/pyphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/KasRoudra/pyphisher?style=for-the-badge&color=blue">
-  <img src="https://hits.dwyl.com/KasRoudra/PyPhisher.svg" width="140" height="28">
+  <img src="https://img.shields.io/github/stars/infowahabwaris/Wahab-pyhisher?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/infowahabwaris/Wahab-pyhisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/infowahabwaris/Wahab-pyhisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/infowahabwaris/Wahab-pyhisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/infowahabwaris/Wahab-pyhisher?style=for-the-badge&color=blue">
+  <img src="https://hits.dwyl.com/infowahabwaris/Wahab-pyhisher.svg" width="140" height="28">
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-KasRoudra-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-Wahab-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
@@ -23,7 +23,7 @@
 
 ### [*]Announcement
 
-This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhisher). Further bug fixes and feature addition will be available in that
+This project is now a part of [MaxPhisher](https://github.com/infowahabwaris/MaxPhisher). Further bug fixes and feature addition will be available in that
 
 
 ### [+] Installation
@@ -41,10 +41,10 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/PyPhisher```
+ - ```git clone https://github.com/infowahabwaris/Wahab-pyhisher```
 
 ##### Enter the directory
- - ```cd PyPhisher```
+ - ```cd Wahab-pyhisher```
 
 ##### Install all modules
  - ```pip3 install -r files/requirements.txt```
@@ -54,7 +54,7 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 #### Or, directly run
 ```
-wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && python3 pyphisher.py
+wget https://github.com/infowahabwaris/Wahab-pyhisher/raw/main/pyphisher.py && python3 pyphisher.py
 
 ```
 
@@ -65,8 +65,8 @@ wget https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/pyphisher.py && 
 
 ### Docker
 
- - `sudo docker pull kasroudra/pyphisher`
- - `sudo docker run --rm -it kasroudra/pyphisher`
+ - `sudo docker pull wahab/pyphisher`
+ - `sudo docker run --rm -it wahab/pyphisher`
 
 ### Support
 
@@ -128,8 +128,8 @@ options:
  - Get IP Address and many other details along with login credentials
 
 #### Relevant Tools by Me
- - [CamHacker](https://github.com/KasRoudra/CamHacker) for image phishing
- - [VidPhisher](https://github.com/KasRoudra/VidPhisher) for video phishing
+ - [CamHacker](https://github.com/infowahabwaris/CamHacker) for image phishing
+ - [VidPhisher](https://github.com/infowahabwaris/VidPhisher) for video phishing
 
 
 ### Requirements
@@ -162,7 +162,7 @@ If not found, php and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![PyPhisher](https://raw.githubusercontent.com/KasRoudra/PyPhisher/main/files/pyphisher.gif)
+![PyPhisher](https://github.com/infowahabwaris/Wahab-pyhisher/raw/main/files/pyphisher.gif)
 
 ## Video Tutorial
 <a href="https://rebrand.ly/pyphishervideo">PyPhisher in Termux</a>
@@ -217,13 +217,12 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-purple?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://img.shields.io/badge/Github-Wahab-purple?style=for-the-badge&logo=github)](https://github.com/infowahabwaris)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-Wahab-green?style=for-the-badge&logo=gmail)](mailto:info.wahabwaris@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-blue?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![Facebook](https://img.shields.io/badge/Facebook-Wahab-blue?style=for-the-badge&logo=facebook)](https://facebook.com/infowahabwaris)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-orange?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
+- [![Messenger](https://img.shields.io/badge/Messenger-Wahab-orange?style=for-the-badge&logo=messenger)](https://m.me/infowahabwaris)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
-
+- [![Telegram](https://img.shields.io/badge/Telegram-Wahab-indigo?style=for-the-badge&logo=telegram)](https://t.me/infowahabwaris)
